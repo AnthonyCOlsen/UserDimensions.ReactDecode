@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/UserDimensions.ReactDecode/FileContentIndex
+/.vs/UserDimensions.ReactDecode/v17
+/obj/Debug
+/npm-debug.log
+/userdimensions.reactdecode.esproj.user
