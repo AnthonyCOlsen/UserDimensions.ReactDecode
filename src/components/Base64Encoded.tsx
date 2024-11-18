@@ -1,13 +1,13 @@
 import React from 'react';
 import { Base64Props } from '../types/types'
 
-const Base64Encoded: React.FC<Base64Props> = ({ decodedValue, onChange }) => {
+const Base64Encoded: React.FC<Base64Props> = ({ encodedValue, onChange }) => {
     return (
         <div>
-            <label>Base64 Decoded (still under development...):</label><br />
+            <label>Base64 Encoded:</label><br />
             <input
                 type="text"
-                value={decodedValue}
+                value={encodedValue}
                 onChange={onChange}
                 placeholder="Encoded"
             />

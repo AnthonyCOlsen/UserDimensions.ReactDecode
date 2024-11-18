@@ -5,9 +5,10 @@ const Base64Decoded: React.FC<Base64Props> = ({ decodedValue, onChange }) => {
     return (
         <div>
             <label>Decoded:</label><br />
-            <input
-                type="text"
+            <textarea
                 value={decodedValue}
+                rows="10"
+                cols="30"
                 onChange={onChange}
                 placeholder="Decoded"
             />
