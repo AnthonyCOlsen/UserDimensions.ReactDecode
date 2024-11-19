@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.11.35208.52
+VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "userdimensions.reactdecode", "userdimensions.reactdecode.esproj", "{93ED1E34-5E49-4535-A5C0-BFE563AFFED0}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "userdimensions.reactdecode", "userdimensions.reactdecode.esproj", "{18EC455E-E1E0-4313-B3E1-B8C6A190AD5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,17 +11,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{93ED1E34-5E49-4535-A5C0-BFE563AFFED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{93ED1E34-5E49-4535-A5C0-BFE563AFFED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{93ED1E34-5E49-4535-A5C0-BFE563AFFED0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{93ED1E34-5E49-4535-A5C0-BFE563AFFED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{93ED1E34-5E49-4535-A5C0-BFE563AFFED0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{93ED1E34-5E49-4535-A5C0-BFE563AFFED0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{18EC455E-E1E0-4313-B3E1-B8C6A190AD5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18EC455E-E1E0-4313-B3E1-B8C6A190AD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18EC455E-E1E0-4313-B3E1-B8C6A190AD5A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{18EC455E-E1E0-4313-B3E1-B8C6A190AD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18EC455E-E1E0-4313-B3E1-B8C6A190AD5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18EC455E-E1E0-4313-B3E1-B8C6A190AD5A}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DED3F995-E8AB-4BB3-8F48-6DE5707A476C}
+		SolutionGuid = {D76BD8C1-E2E2-47FC-9760-9D17F08A9070}
 	EndGlobalSection
 EndGlobal

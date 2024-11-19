@@ -1,9 +1,29 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
 
-/.vs/UserDimensions.ReactDecode/FileContentIndex
-/.vs/UserDimensions.ReactDecode/v17
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Manually added
+/.vs
 /obj/Debug
-/npm-debug.log
 /userdimensions.reactdecode.esproj.user
